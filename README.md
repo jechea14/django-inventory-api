@@ -1,5 +1,3 @@
 # django-inventory-api
- Basic RESTful API of an inventory management system with CRUD operations using Django and Django Rest framework
+ Basic REST API of a product inventory management system with CRUD operations using Django and Django REST framework. Used djangorestframework-simplejwt for JWT Authentication.
  
-TODO:
-- Authentiation and Permisisons
